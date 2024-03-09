@@ -4,4 +4,4 @@ k = 0
 while k<indice:
     k = k+1
     soma = soma+k
-print("A soma final é : ",soma,"\n fim do programa")
+print("A soma final é : ",soma,"\n fim do programa  \n resultado 91")
